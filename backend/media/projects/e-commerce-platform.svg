@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+      <defs>
+        <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+          <stop offset="0%" stop-color="#111111" />
+          <stop offset="100%" stop-color="#2b2b2b" />
+        </linearGradient>
+      </defs>
+      <rect width="1200" height="900" fill="url(#g)" />
+      <circle cx="960" cy="180" r="180" fill="rgba(255,255,255,0.08)" />
+      <circle cx="260" cy="680" r="220" fill="rgba(255,255,255,0.05)" />
+      <text x="80" y="760" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">E-commerce Platform</text>
+      <text x="80" y="830" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="28">anespy.xyz</text>
+    </svg>
